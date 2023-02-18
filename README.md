@@ -8,4 +8,4 @@
 - I use Arch Btw :computer:
 - From Germany :de:
 - I Upload my Coding Journey
-                                               ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=Yqno&show_icons=true&theme=radical)
+                                  ![Anurag's GitHub stats](https://github-readmestats.vercel.app/apiusername=Yqno&show_icons=true&theme=radical)
