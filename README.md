@@ -2,6 +2,7 @@
 - I use Arch Btw :computer:
 - From Germany :de:
 - I Upload my Coding Journey
+- Top 1% on TryHackMe
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yqno&theme=highcontrast)](https://git.io/streak-stats)
 
