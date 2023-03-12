@@ -1,8 +1,10 @@
 - Male :mens:
 - I use Arch Btw :computer:
 - From Germany :de:
-- I Upload my Coding Journey
+- I'm Uploading my Coding Journey
 - Top 1% on TryHackMe
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yqno&theme=tokyonight)](https://git.io/streak-stats)
 
