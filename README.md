@@ -1,10 +1,11 @@
 - Male :mens:
-- I use Arch Btw :computer:
 - From Germany :de:
-- I'm Uploading my Coding Journey 𒉭
+- I'm Uploading my Journey 𒉭
 - Top 1% on TryHackMe
+- Active in Cybersecurity, doing Pentesting & Coding, used to be active at Webdevelopment
 
-## <span style="color: red !important;">&gt;</span> Skillset
+Skillset
+
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,apple,kali,mint,ubuntu,debian,linux,wordpress,vscode,pycharm,vscodium,anaconda,bots,py,java,c,ts,css&perline=8)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yqno&show_icons=true&theme=tokyonight)
