@@ -5,7 +5,7 @@
 - Top 1% on TryHackMe
 
 ## <span style="color: red !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=arch,windows,apple,kali,mint,ubuntu,debian,linux,wordpress,vscode,pycharm,vscodium,anaconda,bots,py,java,c,ts,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,windows,apple,kali,mint,ubuntu,debian,linux,wordpress,vscode,pycharm,vscodium,anaconda,bots,py,java,c,ts,css&perline=8)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yqno&show_icons=true&theme=tokyonight)
 
