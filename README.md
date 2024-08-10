@@ -4,6 +4,8 @@
 - I'm Uploading my Coding Journey 𒉭
 - Top 1% on TryHackMe
 
+[![My Skills](https://skillicons.dev/icons?i=arch,windows,apple,kali,mint,ubuntu,debian,linux,wordpress,vscode,pycharm,vscodium,anaconda,bots,py,java,c,ts,css)](https://skillicons.dev)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yqno&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yqno&show_icons=true&theme=tokyonight)
