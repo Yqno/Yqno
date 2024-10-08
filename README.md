@@ -16,7 +16,3 @@ Skillset
 
 
 
-![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/Yqno.png" alt="Your Image Badge" />
-)
-
-
