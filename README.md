@@ -16,6 +16,7 @@ Skillset
 
 
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=334354)
+![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/Yqno.png" alt="Your Image Badge" />
+)
 
 
