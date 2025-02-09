@@ -2,7 +2,7 @@
 - From Germany :de:
 - I'm Uploading my Journey 𒉭
 - Top 1% on TryHackMe
-- Active in Cybersecurity, doing Pentesting & Coding, used to be active at Webdevelopment
+- Active in Cybersecurity, doing Pentesting & Coding, used to be active at Web development
 
 Skillset
 
