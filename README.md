@@ -16,4 +16,5 @@ Skillset
 
 
 
-https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3GLKVEV0QL.pdf
+
+[THM-3GLKVEV0QL.pdf](https://github.com/user-attachments/files/20148170/THM-3GLKVEV0QL.pdf)
