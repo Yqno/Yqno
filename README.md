@@ -17,4 +17,3 @@ Skillset
 
 
 
-[THM-3GLKVEV0QL.pdf](https://github.com/user-attachments/files/20148170/THM-3GLKVEV0QL.pdf)
