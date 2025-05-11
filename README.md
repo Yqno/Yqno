@@ -14,8 +14,7 @@ Skillset
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yqno&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<embed src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3GLKVEV0QL.pdf" width="100%" height="600px" type="application/pdf">
+🔐 [THM 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3GLKVEV0QL.pdf)
 
 
 
